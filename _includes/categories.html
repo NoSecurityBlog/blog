@@ -15,7 +15,7 @@
     <ul class="cat-post">
       {% for post in cat[1] %}
       <a class="post-title" href="{{site.baseurl}}{{post.url}}" target="_blank">
-        <li style="font-color: #c10">
+        <li style="color: #c10">
           {{post.title}}
           <small class="post-date">{{post.date | date_to_string}}</small>
         </li>
