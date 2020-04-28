@@ -7,7 +7,11 @@ comments: 1
 categories: OSINT
 tags: russians,storytime
 ---
-
+<head>
+ <style>
+   a {font-weight: bold}
+ </style>
+</head>
 This blogpost is a work of over a week’s worth of full-time research using publicly available sources of information. I’m not associated with the CIA and my sources are limited to Google, news media and leaks. That said, even with a limited number of sources, there is too much information on the topic and it's impossible to include all of it without making the blogpost impossibly long. I tried to condense the material as much as I could and provide as many references as I could, so that you could all examine the information I used to draw conclusions, if you would like to. Many of the sources I list are in Russian, but you should still be able to examine most of them with Google’s page translation. Please report any broken links and I’ll do my best to fix them. Overall, the blogpost describes how Russia’s disinformation and bot infrastructure came to be. Due to its nature, we may lack crucial information that will come out in later years and if it does, I’ll correct my article. The blogpost isn’t intended to instill some kind of hate against Russians, in fact, if you read through it, you’ll realize that Russian citizens are oppressed and put down by Kremlin’s propaganda infrastructure in a way that people in the West never will be. If you have any feedback, I’ll be happy to hear it out.
 
 **Table of Contents:**
